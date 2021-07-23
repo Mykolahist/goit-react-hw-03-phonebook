@@ -1,0 +1,14 @@
+.container {
+  max-width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+.title {
+  margin-bottom: 10px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 32px;
+}
